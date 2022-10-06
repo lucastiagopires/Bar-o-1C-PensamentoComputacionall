@@ -6,3 +6,14 @@ body {
     width: 100%;
 }
       
+.beneficios{
+    text-align: left;
+    background-color: rgba(34, 102, 96, 0.623);
+}
+    ul{
+        display: inline-block;
+        vertical-align: top;
+    }
+.foto-beneficios{
+    width: 40%;
+  }
